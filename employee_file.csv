@@ -1,0 +1,480 @@
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 4,21 4,22 4,23 4,24 4,25 4,26 4,27
+Fibonacci 4,22 4,23 4,23 4,24 4,25 4,25 4,26
+Camarilla 4,23 4,24 4,24 4,24 4,24 4,24 4,25
+Woodie 4,21 4,22 4,23 4,24 4,25 4,26 4,27
+Demark - - 4,22 4,24 4,24 - -","Ýsim Deðer Hareket
+RSI(14) 41,648 Sat
+STOCH(9,6) 56,667 Al
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) 0,000 Nötr
+ADX(14) 31,572 Sat
+Williams %R -80,000 Sat
+CCI(14) -227,2237 Aþýrý Satýþ
+ATR(14) 0,0150 Yüksek Hareketli
+Highs/Lows(14) -0,0143 Sat
+Ultimate Oscillator 48,482 Sat
+ROC -0,937 Sat
+Bull/Bear Power(13) -0,0340 Sat
+Al: 1 Sat: 7 Nötr: 1
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 4,24
+Sat 4,24
+Sat
+MA10 4,24
+Sat 4,25
+Sat
+MA20 4,25
+Sat 4,25
+Sat
+MA50 4,26
+Sat 4,25
+Sat
+MA100 4,24
+Sat 4,25
+Sat
+MA200 4,24
+Sat 4,24
+Sat
+Al: 0 Sat: 12
+Özet:GÜÇLÜ SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 4,89 4,89 4,90 4,90 4,91 4,91 4,92
+Fibonacci 4,89 4,89 4,90 4,90 4,90 4,91 4,91
+Camarilla 4,90 4,90 4,90 4,90 4,90 4,90 4,90
+Woodie 4,89 4,89 4,90 4,90 4,91 4,91 4,92
+Demark - - 4,89 4,90 4,91 - -","Ýsim Deðer Hareket
+RSI(14) 51,951 Nötr
+STOCH(9,6) 58,333 Al
+STOCHRSI(14) 22,154 Aþýrý Satýþ
+MACD(12,26) 0,000 Nötr
+ADX(14) 49,762 Al
+Williams %R -66,667 Sat
+CCI(14) -45,6154 Nötr
+ATR(14) 0,0121 Düþük Hareketli
+Highs/Lows(14) 0,0000 Nötr
+Ultimate Oscillator 47,479 Sat
+ROC -0,204 Sat
+Bull/Bear Power(13) 0,0020 Al
+Al: 3 Sat: 3 Nötr: 4
+Özet:NÖTR","Periyot Temel Üssel
+MA5 4,89
+Sat 4,89
+Sat
+MA10 4,89
+Sat 4,89
+Sat
+MA20 4,89
+Sat 4,89
+Sat
+MA50 4,88
+Al 4,88
+Al
+MA100 4,87
+Al 4,88
+Al
+MA200 4,89
+Sat 4,87
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 16,89 16,92 16,94 16,97 16,99 17,02 17,04
+Fibonacci 16,92 16,94 16,95 16,97 16,99 17,00 17,02
+Camarilla 16,95 16,95 16,96 16,97 16,96 16,97 16,97
+Woodie 16,89 16,92 16,94 16,97 16,99 17,02 17,04
+Demark - - 16,93 16,96 16,98 - -","Ýsim Deðer Hareket
+RSI(14) 45,971 Nötr
+STOCH(9,6) 53,283 Nötr
+STOCHRSI(14) 78,671 Aþýrý Alýþ
+MACD(12,26) -0,020 Sat
+ADX(14) 20,850 Sat
+Williams %R -50,000 Nötr
+CCI(14) -41,0862 Nötr
+ATR(14) 0,0350 Yüksek Hareketli
+Highs/Lows(14) 0,0000 Nötr
+Ultimate Oscillator 46,323 Sat
+ROC -0,176 Sat
+Bull/Bear Power(13) -0,0120 Sat
+Al: 0 Sat: 5 Nötr: 5
+Özet:SAT","Periyot Temel Üssel
+MA5 16,99
+Sat 16,98
+Al
+MA10 16,98
+Al 16,99
+Sat
+MA20 17,01
+Sat 17,01
+Sat
+MA50 17,04
+Sat 17,02
+Sat
+MA100 17,01
+Sat 16,96
+Al
+MA200 16,78
+Al 16,82
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 12,216 12,253 12,306 12,343 12,396 12,433 12,486
+Fibonacci 12,253 12,287 12,309 12,343 12,377 12,399 12,433
+Camarilla 12,335 12,343 12,352 12,343 12,368 12,376 12,385
+Woodie 12,224 12,257 12,314 12,347 12,404 12,437 12,494
+Demark - - 12,325 12,352 12,415 - -","Ýsim Deðer Hareket
+RSI(14) 40,667 Sat
+STOCH(9,6) 33,018 Sat
+STOCHRSI(14) 52,428 Nötr
+MACD(12,26) -0,062 Sat
+ADX(14) 34,424 Sat
+Williams %R -59,460 Sat
+CCI(14) -43,7909 Nötr
+ATR(14) 0,0571 Yüksek Hareketli
+Highs/Lows(14) -0,0250 Sat
+Ultimate Oscillator 47,647 Sat
+ROC -1,356 Sat
+Bull/Bear Power(13) -0,0360 Sat
+Al: 0 Sat: 9 Nötr: 2
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 12,336
+Al 12,355
+Al
+MA10 12,366
+Al 12,374
+Sat
+MA20 12,441
+Sat 12,421
+Sat
+MA50 12,525
+Sat 12,479
+Sat
+MA100 12,509
+Sat 12,410
+Sat
+MA200 12,134
+Al 12,227
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 26,24 26,28 26,30 26,34 26,36 26,40 26,42
+Fibonacci 26,28 26,30 26,32 26,34 26,36 26,38 26,40
+Camarilla 26,30 26,31 26,31 26,34 26,33 26,33 26,34
+Woodie 26,22 26,27 26,28 26,33 26,34 26,39 26,40
+Demark - - 26,29 26,34 26,35 - -","Ýsim Deðer Hareket
+RSI(14) 34,945 Sat
+STOCH(9,6) 36,759 Sat
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) -0,030 Sat
+ADX(14) 44,460 Sat
+Williams %R -100,000 Aþýrý Satýþ
+CCI(14) -242,0094 Aþýrý Satýþ
+ATR(14) 0,0429 Düþük Hareketli
+Highs/Lows(14) -0,0971 Sat
+Ultimate Oscillator 26,421 Aþýrý Satýþ
+ROC -0,680 Sat
+Bull/Bear Power(13) -0,1840 Sat
+Al: 0 Sat: 7 Nötr: 0
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 26,36
+Sat 26,35
+Sat
+MA10 26,39
+Sat 26,38
+Sat
+MA20 26,43
+Sat 26,41
+Sat
+MA50 26,46
+Sat 26,45
+Sat
+MA100 26,49
+Sat 26,47
+Sat
+MA200 26,48
+Sat 26,48
+Sat
+Al: 0 Sat: 12
+Özet:GÜÇLÜ SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 4,21 4,22 4,23 4,24 4,25 4,26 4,27
+Fibonacci 4,22 4,23 4,23 4,24 4,25 4,25 4,26
+Camarilla 4,23 4,24 4,24 4,24 4,24 4,24 4,25
+Woodie 4,21 4,22 4,23 4,24 4,25 4,26 4,27
+Demark - - 4,22 4,24 4,24 - -","Ýsim Deðer Hareket
+RSI(14) 41,648 Sat
+STOCH(9,6) 56,667 Al
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) 0,000 Nötr
+ADX(14) 31,572 Sat
+Williams %R -80,000 Sat
+CCI(14) -227,2237 Aþýrý Satýþ
+ATR(14) 0,0150 Yüksek Hareketli
+Highs/Lows(14) -0,0143 Sat
+Ultimate Oscillator 48,482 Sat
+ROC -0,937 Sat
+Bull/Bear Power(13) -0,0340 Sat
+Al: 1 Sat: 7 Nötr: 1
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 4,24
+Sat 4,24
+Sat
+MA10 4,24
+Sat 4,25
+Sat
+MA20 4,25
+Sat 4,25
+Sat
+MA50 4,26
+Sat 4,25
+Sat
+MA100 4,24
+Sat 4,25
+Sat
+MA200 4,24
+Sat 4,24
+Sat
+Al: 0 Sat: 12
+Özet:GÜÇLÜ SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 4,89 4,89 4,90 4,90 4,91 4,91 4,92
+Fibonacci 4,89 4,89 4,90 4,90 4,90 4,91 4,91
+Camarilla 4,90 4,90 4,90 4,90 4,90 4,90 4,90
+Woodie 4,89 4,89 4,90 4,90 4,91 4,91 4,92
+Demark - - 4,89 4,90 4,91 - -","Ýsim Deðer Hareket
+RSI(14) 51,951 Nötr
+STOCH(9,6) 58,333 Al
+STOCHRSI(14) 22,154 Aþýrý Satýþ
+MACD(12,26) 0,000 Nötr
+ADX(14) 49,762 Al
+Williams %R -66,667 Sat
+CCI(14) -45,6154 Nötr
+ATR(14) 0,0121 Düþük Hareketli
+Highs/Lows(14) 0,0000 Nötr
+Ultimate Oscillator 47,479 Sat
+ROC -0,204 Sat
+Bull/Bear Power(13) 0,0020 Al
+Al: 3 Sat: 3 Nötr: 4
+Özet:NÖTR","Periyot Temel Üssel
+MA5 4,89
+Sat 4,89
+Sat
+MA10 4,89
+Sat 4,89
+Sat
+MA20 4,89
+Sat 4,89
+Sat
+MA50 4,88
+Al 4,88
+Al
+MA100 4,87
+Al 4,88
+Al
+MA200 4,89
+Sat 4,87
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 16,89 16,92 16,94 16,97 16,99 17,02 17,04
+Fibonacci 16,92 16,94 16,95 16,97 16,99 17,00 17,02
+Camarilla 16,95 16,95 16,96 16,97 16,96 16,97 16,97
+Woodie 16,89 16,92 16,94 16,97 16,99 17,02 17,04
+Demark - - 16,93 16,96 16,98 - -","Ýsim Deðer Hareket
+RSI(14) 45,971 Nötr
+STOCH(9,6) 53,283 Nötr
+STOCHRSI(14) 78,671 Aþýrý Alýþ
+MACD(12,26) -0,020 Sat
+ADX(14) 20,850 Sat
+Williams %R -50,000 Nötr
+CCI(14) -41,0862 Nötr
+ATR(14) 0,0350 Yüksek Hareketli
+Highs/Lows(14) 0,0000 Nötr
+Ultimate Oscillator 46,323 Sat
+ROC -0,176 Sat
+Bull/Bear Power(13) -0,0120 Sat
+Al: 0 Sat: 5 Nötr: 5
+Özet:SAT","Periyot Temel Üssel
+MA5 16,99
+Sat 16,98
+Al
+MA10 16,98
+Al 16,99
+Sat
+MA20 17,01
+Sat 17,01
+Sat
+MA50 17,04
+Sat 17,02
+Sat
+MA100 17,01
+Sat 16,96
+Al
+MA200 16,78
+Al 16,82
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 12,216 12,253 12,306 12,343 12,396 12,433 12,486
+Fibonacci 12,253 12,287 12,309 12,343 12,377 12,399 12,433
+Camarilla 12,335 12,343 12,352 12,343 12,368 12,376 12,385
+Woodie 12,224 12,257 12,314 12,347 12,404 12,437 12,494
+Demark - - 12,325 12,352 12,415 - -","Ýsim Deðer Hareket
+RSI(14) 40,667 Sat
+STOCH(9,6) 33,018 Sat
+STOCHRSI(14) 52,428 Nötr
+MACD(12,26) -0,062 Sat
+ADX(14) 34,424 Sat
+Williams %R -59,460 Sat
+CCI(14) -43,7909 Nötr
+ATR(14) 0,0571 Yüksek Hareketli
+Highs/Lows(14) -0,0250 Sat
+Ultimate Oscillator 47,647 Sat
+ROC -1,356 Sat
+Bull/Bear Power(13) -0,0360 Sat
+Al: 0 Sat: 9 Nötr: 2
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 12,336
+Al 12,355
+Al
+MA10 12,366
+Al 12,374
+Sat
+MA20 12,441
+Sat 12,421
+Sat
+MA50 12,525
+Sat 12,479
+Sat
+MA100 12,509
+Sat 12,410
+Sat
+MA200 12,134
+Al 12,227
+Al
+Al: 5 Sat: 7
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 26,24 26,28 26,30 26,34 26,36 26,40 26,42
+Fibonacci 26,28 26,30 26,32 26,34 26,36 26,38 26,40
+Camarilla 26,30 26,31 26,31 26,34 26,33 26,33 26,34
+Woodie 26,22 26,27 26,28 26,33 26,34 26,39 26,40
+Demark - - 26,29 26,34 26,35 - -","Ýsim Deðer Hareket
+RSI(14) 34,945 Sat
+STOCH(9,6) 36,759 Sat
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) -0,030 Sat
+ADX(14) 44,460 Sat
+Williams %R -100,000 Aþýrý Satýþ
+CCI(14) -242,0094 Aþýrý Satýþ
+ATR(14) 0,0429 Düþük Hareketli
+Highs/Lows(14) -0,0971 Sat
+Ultimate Oscillator 26,421 Aþýrý Satýþ
+ROC -0,680 Sat
+Bull/Bear Power(13) -0,1840 Sat
+Al: 0 Sat: 7 Nötr: 0
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 26,36
+Sat 26,35
+Sat
+MA10 26,39
+Sat 26,38
+Sat
+MA20 26,43
+Sat 26,41
+Sat
+MA50 26,46
+Sat 26,45
+Sat
+MA100 26,49
+Sat 26,47
+Sat
+MA200 26,48
+Sat 26,48
+Sat
+Al: 0 Sat: 12
+Özet:GÜÇLÜ SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 10,840 10,850 10,860 10,870 10,880 10,890 10,900
+Fibonacci 10,850 10,858 10,862 10,870 10,878 10,882 10,890
+Camarilla 10,864 10,866 10,868 10,870 10,872 10,874 10,876
+Woodie 10,840 10,850 10,860 10,870 10,880 10,890 10,900
+Demark - - 10,865 10,873 10,885 - -","Ýsim Deðer Hareket
+RSI(14) 45,298 Nötr
+STOCH(9,6) 62,857 Al
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) -0,003 Sat
+ADX(14) 15,503 Nötr
+Williams %R -71,429 Sat
+CCI(14) -108,0133 Sat
+ATR(14) 0,0229 Yüksek Hareketli
+Highs/Lows(14) -0,0093 Sat
+Ultimate Oscillator 52,232 Al
+ROC 0,000 Nötr
+Bull/Bear Power(13) -0,0380 Sat
+Al: 2 Sat: 5 Nötr: 3
+Özet:SAT","Periyot Temel Üssel
+MA5 10,862
+Sat 10,851
+Sat
+MA10 10,852
+Sat 10,851
+Sat
+MA20 10,843
+Sat 10,848
+Sat
+MA50 10,861
+Sat 10,851
+Sat
+MA100 10,857
+Sat 10,814
+Al
+MA200 10,692
+Al 10,699
+Al
+Al: 3 Sat: 9
+Özet:SAT"
+"Ýsim S3 S2 S1 Pivot Noktalarý R1 R2 R3
+Klasik 1,770 1,770 1,770 1,770 1,770 1,770 1,770
+Fibonacci 1,770 1,770 1,770 1,770 1,770 1,770 1,770
+Camarilla 1,770 1,770 1,770 1,770 1,770 1,770 1,770
+Woodie 1,770 1,770 1,770 1,770 1,770 1,770 1,770
+Demark - - 1,770 1,770 1,770 - -","Ýsim Deðer Hareket
+RSI(14) 41,023 Sat
+STOCH(9,6) 33,333 Sat
+STOCHRSI(14) 0,000 Aþýrý Satýþ
+MACD(12,26) -0,006 Sat
+ADX(14) 53,430 Sat
+Williams %R -100,000 Aþýrý Satýþ
+CCI(14) -194,4444 Sat
+ATR(14) 0,0100 Düþük Hareketli
+Highs/Lows(14) -0,0157 Sat
+Ultimate Oscillator 37,982 Sat
+ROC -1,667 Sat
+Bull/Bear Power(13) -0,0280 Sat
+Al: 0 Sat: 9 Nötr: 0
+Özet:GÜÇLÜ SAT","Periyot Temel Üssel
+MA5 1,778
+Sat 1,777
+Sat
+MA10 1,784
+Sat 1,782
+Sat
+MA20 1,790
+Sat 1,787
+Sat
+MA50 1,796
+Sat 1,793
+Sat
+MA100 1,797
+Sat 1,799
+Sat
+MA200 1,811
+Sat 1,807
+Sat
+Al: 0 Sat: 12
+Özet:GÜÇLÜ SAT"
